@@ -2344,106 +2344,6 @@
                   <isHidden>false</isHidden>
                   <isReadOnly>false</isReadOnly>
                 </ProjectItem>
-                <ProjectItem
-                  i:type="d7p1:ViewportLayer">
-                  <properties xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="http://schemas.datacontract.org/2004/07/Rightware.Kanzi.Tool.Logic.Properties">
-                    <d10p1:KeyValueOfstringDynamicPropertyeuDbPpRS>
-                      <d10p1:Key>ViewportLayerScene</d10p1:Key>
-                      <d10p1:Value>
-                        <isHidden
-                          i:nil="true" />
-                        <isReadOnly
-                          i:nil="true" />
-                        <propertyTypeReference>ViewportLayerScene</propertyTypeReference>
-                        <value xmlns:d13p1="http://schemas.datacontract.org/2004/07/Rightware.Kanzi.Tool.Logic.Project"
-                          i:type="d13p1:ProjectItemReference">
-                          <d13p1:ContentType>ABSOLUTE</d13p1:ContentType>
-                          <d13p1:IsResourceReference>false</d13p1:IsResourceReference>
-                          <d13p1:referredItemPath
-                            i:nil="true" />
-                          <d13p1:textContent
-                            i:nil="true" />
-                        </value>
-                      </d10p1:Value>
-                    </d10p1:KeyValueOfstringDynamicPropertyeuDbPpRS>
-                    <d10p1:KeyValueOfstringDynamicPropertyeuDbPpRS>
-                      <d10p1:Key>Node2D.ForegroundHint</d10p1:Key>
-                      <d10p1:Value>
-                        <isHidden
-                          i:nil="true" />
-                        <isReadOnly
-                          i:nil="true" />
-                        <propertyTypeReference>Node2D.ForegroundHint</propertyTypeReference>
-                        <value xmlns:d13p1="http://www.w3.org/2001/XMLSchema"
-                          i:type="d13p1:int">1</value>
-                      </d10p1:Value>
-                    </d10p1:KeyValueOfstringDynamicPropertyeuDbPpRS>
-                    <d10p1:KeyValueOfstringDynamicPropertyeuDbPpRS>
-                      <d10p1:Key>Tags</d10p1:Key>
-                      <d10p1:Value>
-                        <isHidden
-                          i:nil="true" />
-                        <isReadOnly
-                          i:nil="true" />
-                        <propertyTypeReference>Tags</propertyTypeReference>
-                        <value xmlns:d13p1="http://schemas.datacontract.org/2004/07/Rightware.Kanzi.Tool.Logic.Project"
-                          i:type="d13p1:ArrayOfProjectItemReference" />
-                      </d10p1:Value>
-                    </d10p1:KeyValueOfstringDynamicPropertyeuDbPpRS>
-                    <d10p1:KeyValueOfstringDynamicPropertyeuDbPpRS>
-                      <d10p1:Key>EffectiveDataContext</d10p1:Key>
-                      <d10p1:Value>
-                        <isHidden
-                          i:nil="true" />
-                        <isReadOnly
-                          i:nil="true" />
-                        <propertyTypeReference>EffectiveDataContext</propertyTypeReference>
-                        <value xmlns:d13p1="http://schemas.datacontract.org/2004/07/Rightware.Kanzi.Tool.Logic.Project.DataSourceItems"
-                          i:type="d13p1:DataContext">
-                          <d13p1:dataObjectPath></d13p1:dataObjectPath>
-                          <d13p1:dataSourceReference xmlns:d14p1="http://schemas.datacontract.org/2004/07/Rightware.Kanzi.Tool.Logic.Project">
-                            <d14p1:ContentType>ABSOLUTE</d14p1:ContentType>
-                            <d14p1:IsResourceReference>false</d14p1:IsResourceReference>
-                            <d14p1:referredItemPath
-                              i:nil="true" />
-                            <d14p1:textContent
-                              i:nil="true" />
-                          </d13p1:dataSourceReference>
-                        </value>
-                      </d10p1:Value>
-                    </d10p1:KeyValueOfstringDynamicPropertyeuDbPpRS>
-                    <d10p1:KeyValueOfstringDynamicPropertyeuDbPpRS>
-                      <d10p1:Key>Name</d10p1:Key>
-                      <d10p1:Value>
-                        <isHidden
-                          i:nil="true" />
-                        <isReadOnly
-                          i:nil="true" />
-                        <propertyTypeReference>Name</propertyTypeReference>
-                        <value xmlns:d13p1="http://www.w3.org/2001/XMLSchema"
-                          i:type="d13p1:string">Viewport 2D_1</value>
-                      </d10p1:Value>
-                    </d10p1:KeyValueOfstringDynamicPropertyeuDbPpRS>
-                    <d10p1:KeyValueOfstringDynamicPropertyeuDbPpRS>
-                      <d10p1:Key>CreationTime</d10p1:Key>
-                      <d10p1:Value>
-                        <isHidden
-                          i:nil="true" />
-                        <isReadOnly
-                          i:nil="true" />
-                        <propertyTypeReference>CreationTime</propertyTypeReference>
-                        <value xmlns:d13p1="http://www.w3.org/2001/XMLSchema"
-                          i:type="d13p1:dateTime">2021-11-01T07:10:23.7670004Z</value>
-                      </d10p1:Value>
-                    </d10p1:KeyValueOfstringDynamicPropertyeuDbPpRS>
-                  </properties>
-                  <SerializedName>Viewport 2D_1</SerializedName>
-                  <children />
-                  <dataSource
-                    i:nil="true" />
-                  <isHidden>false</isHidden>
-                  <isReadOnly>false</isReadOnly>
-                </ProjectItem>
               </children>
               <dataSource
                 i:nil="true" />
@@ -2993,9 +2893,8 @@
                   i:type="d9p1:ProjectItemReference">
                   <d9p1:ContentType>ABSOLUTE</d9p1:ContentType>
                   <d9p1:IsResourceReference>false</d9p1:IsResourceReference>
-                  <d9p1:referredItemPath>
-                    <d9p1:pathString>Untitled1/Object Sources/Root Object Source/</d9p1:pathString>
-                  </d9p1:referredItemPath>
+                  <d9p1:referredItemPath
+                    i:nil="true" />
                   <d9p1:textContent
                     i:nil="true" />
                 </value>
@@ -32798,7 +32697,6 @@
                     <d3p1:Key>FULL</d3p1:Key>
                     <d3p1:Value xmlns:d11p1="http://schemas.datacontract.org/2004/07/Rightware.Kanzi.Tool.ApplicationCommon.Windows.WindowStates">
                       <d11p1:ExpandedNodePaths>
-                        <d3p1:string>/Screens</d3p1:string>
                         <d3p1:string>/Screens/Screen</d3p1:string>
                         <d3p1:string>/Screens/Screen/RootPage</d3p1:string>
                         <d3p1:string>/Screens/Screen/RootPage/Viewport 2D</d3p1:string>
@@ -32808,7 +32706,6 @@
                         <d3p1:KeyValueOfstringArrayOfstringty7Ep6D1>
                           <d3p1:Key>/Untitled1/Screens</d3p1:Key>
                           <d3p1:Value>
-                            <d3p1:string>/Screens</d3p1:string>
                             <d3p1:string>/Screens/Screen</d3p1:string>
                             <d3p1:string>/Screens/Screen/RootPage</d3p1:string>
                             <d3p1:string>/Screens/Screen/RootPage/Viewport 2D</d3p1:string>
@@ -32817,9 +32714,7 @@
                         </d3p1:KeyValueOfstringArrayOfstringty7Ep6D1>
                       </d11p1:RootSpecificDataItems>
                       <d11p1:ScrollPosition>0</d11p1:ScrollPosition>
-                      <d11p1:SelectedNodePaths>
-                        <d3p1:string>/Screens/Screen/RootPage/Viewport 2D_1</d3p1:string>
-                      </d11p1:SelectedNodePaths>
+                      <d11p1:SelectedNodePaths />
                     </d3p1:Value>
                   </d3p1:KeyValueOfProjectExplorerViewModeProjectExplorerState.ProjectDependentData.ViewModeDataZii17Iwv>
                   <d3p1:KeyValueOfProjectExplorerViewModeProjectExplorerState.ProjectDependentData.ViewModeDataZii17Iwv>
